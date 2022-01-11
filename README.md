@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YalesRios
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Federated Learning
-- 💞️ I’m looking to collaborate on Ensemble Learning/XAI
+- 🌱 I’m currently learning Data Generation
+- 💞️ I’m looking to collaborate on Data Generation/Smart Cities
 - 📫 How to reach me ...
 
 <!---
